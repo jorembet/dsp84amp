@@ -7,7 +7,7 @@ No vendor software, no Electron, no runtime dependencies beyond a C11 compiler a
 Xlib. The USB protocol was recovered from the vendor PC tool and the
 parameter map was confirmed against real hardware.
 
-<img src="docs/screenshots/main-ui.png" alt="ZP 8.4 AMP DSP editor" width="900">
+<img src="docs/screenshots/main-ui.png" alt="ZP 8.4 AMP DSP editor" width="100%">
 
 | | |
 |---|---|
