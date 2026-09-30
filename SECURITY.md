@@ -11,7 +11,7 @@
 If you discover a security vulnerability, please report it responsibly:
 
 1. **Do not** open a public issue
-2. Email details to: [security@example.com]
+2. Email details to: [jorembet@gmail.com]
 3. Include:
    - Description of the vulnerability
    - Steps to reproduce
